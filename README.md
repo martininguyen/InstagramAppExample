@@ -1,5 +1,7 @@
 Instagram Example
 ===========
+Assignment 0; Duy Nguyen, COGS 121 SP15
+
 
 Discussion 1:
 
